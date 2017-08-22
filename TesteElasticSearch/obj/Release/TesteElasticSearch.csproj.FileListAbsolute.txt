@@ -1,0 +1,17 @@
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\TesteElasticSearch.exe.config
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\TesteElasticSearch.exe
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\TesteElasticSearch.pdb
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Elasticsearch.Net.Aws.dll
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Elasticsearch.Net.dll
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Nest.dll
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Newtonsoft.Json.dll
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Elasticsearch.Net.xml
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Nest.xml
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\bin\Release\Newtonsoft.Json.xml
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.Form1.resources
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.Properties.Resources.resources
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.csproj.GenerateResource.Cache
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.exe
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.pdb
+D:\Projetos\TesteElasticSearch\TesteElasticSearch\obj\Release\TesteElasticSearch.csprojResolveAssemblyReference.cache

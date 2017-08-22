@@ -1,0 +1,20 @@
+﻿{
+  "settings": {
+    "index.mapping.total_fields.limit": 2000,
+    "index.mapping.nested_fields.limit": 100,
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "isca-schema": {
+      "properties": {
+        "client": { "type": "string" },
+        "clientId": { "type": "integer" },
+        "lastPosition": {
+          "type": "date"
+        },
+        "serialNumber": { "type": "string" }
+      }
+    }
+  }
+}
